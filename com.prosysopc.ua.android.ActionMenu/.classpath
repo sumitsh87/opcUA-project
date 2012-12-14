@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="lib" path="C:/Data/Latest SDK Prosys-OPC-UA-Java-SDK-Client-Server-Evaluation-1.4.1-5574/lib/bcprov-jdk16-146.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Data/Latest SDK Prosys-OPC-UA-Java-SDK-Client-Server-Evaluation-1.4.1-5574/lib/log4j-1.2.17.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Data/Latest SDK Prosys-OPC-UA-Java-SDK-Client-Server-Evaluation-1.4.1-5574/lib/Opc.Ua.Stack-1.01.325.1_fix.jar" sourcepath="/com.prosysopc.ua.android.OpcUaSampleActivity/javadoc"/>
+	<classpathentry exported="true" kind="lib" path="C:/Data/Latest SDK Prosys-OPC-UA-Java-SDK-Client-Server-Evaluation-1.4.1-5574/lib/Prosys-OPC-UA-Java-SDK-Client-Server-Evaluation-1.4.1-5574.jar"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
